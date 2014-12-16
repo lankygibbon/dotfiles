@@ -12,7 +12,6 @@ apps=(
   evernote
   filebot
   google-chrome
-  google-chrome-canary
   gopro-studio
   handbrake
   kismac
