@@ -7,3 +7,4 @@ cd "$(dirname "${BASH_SOURCE}")";
 ./Brewfile
 ./Caskfile
 ./.osx
+./bootstrap.sh

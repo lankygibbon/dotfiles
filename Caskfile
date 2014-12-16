@@ -42,6 +42,7 @@ apps=(
   qlmarkdown
   skype
   prey
+  java
 )
 
 # Install apps to /Applications
